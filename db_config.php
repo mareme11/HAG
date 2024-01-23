@@ -3,7 +3,7 @@
 $servername = "localhost";
 $username = "root";
 $password = "";
-$database = "my_database";
+$database = "hag_db";
 
 //mysqli_report(MYSQLI_REPORT_STRICT | MYSQLI_REPORT_ALL);
 
