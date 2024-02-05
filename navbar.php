@@ -24,7 +24,7 @@
                 if (isset($_SESSION['username'])) {             // Check if the user is already logged in
                     echo '
             <li class="nav-item">
-            <a class="nav-link" href="#">Air Quality</a>
+            <a class="nav-link" href="air_quality.php">Air Quality</a>
             </li>
             <li class="nav-item">
             <a class="nav-link" href="#">Weather Forecasting</a>
